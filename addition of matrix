@@ -36,7 +36,7 @@ int main()
 
   }
 {
-printf(\n192365022);
+printf("\n192365022");
 }
   return 0;
 }
